@@ -28,7 +28,6 @@ p {
 }
 
 /* This p tag is defined later then the one above, therefore this one will have priority over the one above. */
-
 p {
     background-color: red;
 }
